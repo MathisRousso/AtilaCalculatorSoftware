@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mathi\OneDrive\Bureau\M1\Projet S2\AtilaCalculatorSoftware-main\build\CMakeFiles\443553aa4e814030ed6444869f05303b\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{ABA0432A-C38A-33B8-A655-01C4723E85C2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

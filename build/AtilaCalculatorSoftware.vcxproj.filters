@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\mathi\OneDrive\Bureau\M1\Projet S2\AtilaCalculatorSoftware-main\build\AtilaCalculatorSoftware_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathi\OneDrive\Bureau\M1\Projet S2\AtilaCalculatorSoftware-main\src\core\app.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathi\OneDrive\Bureau\M1\Projet S2\AtilaCalculatorSoftware-main\src\core\binary_data.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathi\OneDrive\Bureau\M1\Projet S2\AtilaCalculatorSoftware-main\src\core\binary_data_wrapper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathi\OneDrive\Bureau\M1\Projet S2\AtilaCalculatorSoftware-main\src\core\main_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathi\OneDrive\Bureau\M1\Projet S2\AtilaCalculatorSoftware-main\src\core\mesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathi\OneDrive\Bureau\M1\Projet S2\AtilaCalculatorSoftware-main\src\core\result.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathi\OneDrive\Bureau\M1\Projet S2\AtilaCalculatorSoftware-main\src\core\utilities.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathi\OneDrive\Bureau\M1\Projet S2\AtilaCalculatorSoftware-main\src\logger\logger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathi\OneDrive\Bureau\M1\Projet S2\AtilaCalculatorSoftware-main\src\logger\log_entries.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathi\OneDrive\Bureau\M1\Projet S2\AtilaCalculatorSoftware-main\build\AtilaCalculatorSoftware_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathi\OneDrive\Bureau\M1\Projet S2\AtilaCalculatorSoftware-main\build\AtilaCalculatorSoftware_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathi\OneDrive\Bureau\M1\Projet S2\AtilaCalculatorSoftware-main\build\AtilaCalculatorSoftware_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\mathi\OneDrive\Bureau\M1\Projet S2\AtilaCalculatorSoftware-main\build\ui_MainWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mathi\OneDrive\Bureau\M1\Projet S2\AtilaCalculatorSoftware-main\include\core\binary_data.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mathi\OneDrive\Bureau\M1\Projet S2\AtilaCalculatorSoftware-main\include\core\binary_data_wrapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mathi\OneDrive\Bureau\M1\Projet S2\AtilaCalculatorSoftware-main\include\core\main_window.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mathi\OneDrive\Bureau\M1\Projet S2\AtilaCalculatorSoftware-main\include\core\mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mathi\OneDrive\Bureau\M1\Projet S2\AtilaCalculatorSoftware-main\include\core\result.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mathi\OneDrive\Bureau\M1\Projet S2\AtilaCalculatorSoftware-main\include\core\utilities.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mathi\OneDrive\Bureau\M1\Projet S2\AtilaCalculatorSoftware-main\include\logger\common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mathi\OneDrive\Bureau\M1\Projet S2\AtilaCalculatorSoftware-main\include\logger\logger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mathi\OneDrive\Bureau\M1\Projet S2\AtilaCalculatorSoftware-main\include\logger\log_entries.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mathi\OneDrive\Bureau\M1\Projet S2\AtilaCalculatorSoftware-main\qt\MainWindow.ui" />
+    <CustomBuild Include="C:\Users\mathi\OneDrive\Bureau\M1\Projet S2\AtilaCalculatorSoftware-main\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{58DE1C8A-4A21-3F5B-AC73-5164C26AF66D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F1CE3796-426A-3FCB-A15E-846B8B860566}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
